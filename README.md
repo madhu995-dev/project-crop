@@ -1,1 +1,4 @@
-# project-crop
+#requirements.txt
+streamlit
+pandas
+numpy
